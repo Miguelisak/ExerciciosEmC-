@@ -1,0 +1,18 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int a, b, c;
+    
+    cin >> a >> b >> c;
+    
+    int Soma = a + b + c;
+    
+    cout << Soma << endl;  
+    return 0;
+}
