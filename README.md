@@ -1,2 +1,2 @@
 # ExerciciosEmC++
-Exercicios feitos no HackerRank usando C++
+Exercicios feitos usando C++
